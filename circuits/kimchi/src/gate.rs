@@ -526,7 +526,6 @@ mod tests {
     use mina_curves::pasta::Fp;
     use proptest::prelude::*;
     use rand::SeedableRng as _;
-    use serde::{Deserialize, Serialize};
 
     // TODO: move to mina-curves
     prop_compose! {
