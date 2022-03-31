@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["SpongeState",""]],"fn":[["sbox",""]],"struct":[["ArithmeticSponge",""],["ArithmeticSpongeParams",""],["PlonkSpongeConstants15W",""],["PlonkSpongeConstants3W",""],["PlonkSpongeConstants5W",""],["PlonkSpongeConstantsBasic",""]],"trait":[["Sponge",""],["SpongeConstants",""]]});
